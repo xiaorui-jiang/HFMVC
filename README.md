@@ -63,7 +63,7 @@ If you find this work useful, please consider citing it:
 
 
 
-**We are open to discussions in various forms and welcome your engagement!**
+**We are open to discussions in various forms and welcome your participation!**
 
 
 
