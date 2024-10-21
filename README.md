@@ -8,7 +8,7 @@
 
 
 
-![framework](\pic\framework.png)
+![framework](./pic/framework.png)
 
 
 
