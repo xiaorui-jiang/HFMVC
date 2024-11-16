@@ -4,7 +4,7 @@
 
 ### The official code for
 
-### [Heterogeneity-Aware Federated Deep Multi-View Clustering towards Diverse Feature Representations]([https://openreview.net/forum?id=3fgY4qOhoO](https://dl.acm.org/doi/10.1145/3664647.3681302#))  ( ACM MM 24 )
+### [Heterogeneity-Aware Federated Deep Multi-View Clustering towards Diverse Feature Representations]([https://openreview.net/forum?id=3fgY4qOhoO](https://dl.acm.org/doi/10.1145/3664647.3681302#])  ( ACM MM 24 )
 
 
 
